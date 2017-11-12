@@ -82,31 +82,3 @@ f.close()
 timer.end()
 
 
-
-
-# print(names)
-# print(rates)
-# print(comment_nums)
-# print(prices)
-# print(tastes)
-# print(envs)
-# print(services)
-# for item in rates:
-#     print(item.get("title"))
-# for num in comment_nums:
-#     print(num.get_text())
-
-
-'''
-#shop-all-list > ul > li:nth-child(1) > div.txt > div.tit > a:nth-child(1) > h4
-#shop-all-list > ul > li:nth-child(1) > div.txt > div.comment > span
-#shop-all-list > ul > li:nth-child(2) > div.txt > div.comment > span
-#shop-all-list > ul > li:nth-child(1) > div.txt > div.comment > a.review-num > b
-#shop-all-list > ul > li:nth-child(1) > div.txt > div.comment > a.mean-price > b
-口味#shop-all-list > ul > li:nth-child(1) > div.txt > span > span:nth-child(1) > b
-环境#shop-all-list > ul > li:nth-child(1) > div.txt > span > span:nth-child(2) > b
-服务#shop-all-list > ul > li:nth-child(1) > div.txt > span > span:nth-child(3) > b
-
-'''
-
-
